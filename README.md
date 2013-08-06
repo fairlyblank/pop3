@@ -9,5 +9,5 @@ About
 -----
 pop3 is written in [Google Go](http://golang.org/).
 
-pop2 is open source software released under the [MIT License](https://github.com/fairlyblank/pop3/blob/master/LICENSE).
+pop3 is open source software released under the [MIT License](https://github.com/fairlyblank/pop3/blob/master/LICENSE).
 
